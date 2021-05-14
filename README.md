@@ -4,6 +4,13 @@
 - Below are the descriptions and some screenshots to display what the apps look like and to give a general overview of the design.
 - CANtrackv3 also contains AFTER / BEFORE pictures
 
+## Projects
+- [CANtrack v3](##-cantrack-v3)  
+- [bomba-man](##-bomba-man)  
+- [slide-scott](##-slide-scott)  
+- [chin-scraper](##-chin-scraper)  
+- [Meng Wei Portfolio](##-meng-wei-portfolio)  
+
 ## CANtrack v3
 - Code & Live site are private, no link to demo :|
 - Rewritten our SSR CANtrack (v1 / legacy) from brand new in React as an SPA
@@ -66,6 +73,39 @@
 
 &nbsp;
 
+## bomba-man
+- Live at: [git.io/bomba-man](https://numanaral.github.io/bomba-man/)
+- Code at: [github.com/numanaral/bomba-man](https://github.com/numanaral/bomba-man)
+- Fun side project
+- Built purely with web without using WebGL or any game library/framework
+- Online/Local multi-player
+- Configurable game mode
+- NPC *(Shoutout to @Pujan Bhatta)*
+- Game API built based on factory pattern
+	- Any provider can easily extend and create a wrapper following the factory
+		- redux (local) and firebase (online) are the two providers as of now
+		- Chose firebase for easy setup + easy auth, but a node server with socket.io is what I plan to implement in the future. I didn't want to deploy a server just yet and just get it up and running, firebase can be integrated on a static app so it's perfect to get the ground up.
+#### Landing Page
+![landing page](assets/bomba-man/gifs/landing.gif)
+#### Game Screen
+![local-game](assets/bomba-man/gifs/local-game.gif)
+#### Experimental 3D (via perspective)
+![experimental](assets/bomba-man/gifs/experimental.gif)
+#### Room Creator
+![room-creator](assets/bomba-man/room-creator.png)
+#### Waiting Room For Online Multi-Player
+![waiting-room](assets/bomba-man/gifs/waiting-room-and-join-game.gif)
+#### End Game
+![game-end](assets/bomba-man/gifs/game-end.gif)
+#### Instructions
+![instructions](assets/bomba-man/gifs/instructions.gif)
+
+&nbsp;
+
+---
+
+&nbsp;
+
 ## slide-scott
 - Live at: [git.io/slide-scott](https://numanaral.github.io/slide-scott/)
 - Code at: [github.com/numanaral/slide-scott](https://github.com/numanaral/slide-scott)
@@ -96,39 +136,6 @@
 ![analytics](assets/slide-scott/analytics-page.png)
 #### Resources
 ![resources](assets/slide-scott/resources-page.png)
-
-&nbsp;
-
----
-
-&nbsp;
-
-## bomba-man (Work In Progress)
-- Live at: [git.io/bomba-man](https://numanaral.github.io/bomba-man/)
-- Code at: [github.com/numanaral/bomba-man](https://github.com/numanaral/bomba-man)
-- Fun side project
-- Built purely with web without using WebGL or any game library/framework
-- Online/Local multi-player
-- Configurable game mode
-- NPC *(Shoutout to @Pujan Bhatta)*
-- Game API built based on factory pattern
-	- Any provider can easily extend and create a wrapper following the factory
-		- redux (local) and firebase (online) are the two providers as of now
-		- Chose firebase for easy setup + easy auth, but a node server with socket.io is what I plan to implement in the future. I didn't want to deploy a server just yet and just get it up and running, firebase can be integrated on a static app so it's perfect to get the ground up.
-#### Landing Page
-![landing page](assets/bomba-man/gifs/landing.gif)
-#### Game Screen
-![local-game](assets/bomba-man/gifs/local-game.gif)
-#### Experimental 3D (via perspective)
-![experimental](assets/bomba-man/gifs/experimental.gif)
-#### Room Creator
-![room-creator](assets/bomba-man/room-creator.png)
-#### Waiting Room For Online Multi-Player
-![waiting-room](assets/bomba-man/gifs/waiting-room-and-join-game.gif)
-#### End Game
-![game-end](assets/bomba-man/gifs/game-end.gif)
-#### Instructions
-![instructions](assets/bomba-man/gifs/instructions.gif)
 
 &nbsp;
 
