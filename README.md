@@ -113,14 +113,20 @@
 	- Any provider can easily extend and create a wrapper following the factory
 		- redux (local) and firebase (online) are the two providers as of now
 		- Chose firebase for easy setup + easy auth, but a node server with socket.io might make a lot more sense, but then would have to deploy a server. Firebase can be integrated on a static app so it's perfect to get the ground up.
-#### Landing Page (simplistic)
-![bomba-man-landing](assets/bomba-man/bomba-man-landing.png)
-#### Game Screen (with enabled dev options)
-![game-screen](assets/bomba-man/game-screen.png)
+#### Landing Page
+![landing page](assets/bomba-man/gifs/landing.gif)
+#### Game Screen
+![local-game](assets/bomba-man/gifs/local-game.gif)
+#### Experimental 3D (via perspective)
+![experimental](assets/bomba-man/gifs/experimental.gif)
 #### Room Creator
 ![room-creator](assets/bomba-man/room-creator.png)
 #### Waiting Room For Online Multi-Player
-![room-creator](assets/bomba-man/waiting-room.png)
+![waiting-room](assets/bomba-man/gifs/waiting-room-and-join-game.gif)
+#### End Game
+![game-end](assets/bomba-man/gifs/game-end.gif)
+#### Instructions
+![instructions](assets/bomba-man/gifs/instructions.gif)
 
 &nbsp;
 
