@@ -71,7 +71,7 @@
 - Code at: [github.com/numanaral/slide-scott](https://github.com/numanaral/slide-scott)
 - Project built in CPSC 405 / ENTI 415 course
 - First place winner in the end term pitch competition (industry voters)
-- Singlehandedly built the core project along with "good to have" features under 10 days
+- Single-handedly built the core project along with "good to have" features under 10 days
 	- Team quit on me so had to build it myself
 - Real time presentation
 	- Cursor, drawings, slides and updates are shared with students in real time
@@ -114,7 +114,7 @@
 - Game API built based on factory pattern
 	- Any provider can easily extend and create a wrapper following the factory
 		- redux (local) and firebase (online) are the two providers as of now
-		- Chose firebase for easy setup + easy auth, but a node server with socket.io might make a lot more sense, but then would have to deploy a server. Firebase can be integrated on a static app so it's perfect to get the ground up.
+		- Chose firebase for easy setup + easy auth, but a node server with socket.io is what I plan to implement in the future. I didn't want to deploy a server just yet and just get it up and running, firebase can be integrated on a static app so it's perfect to get the ground up.
 #### Landing Page
 ![landing page](assets/bomba-man/gifs/landing.gif)
 #### Game Screen
