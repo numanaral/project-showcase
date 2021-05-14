@@ -143,10 +143,12 @@
 - Another side project, built for helping me and other students learn / practice writing Hanzi (Chinese characters)
 - [Details](https://github.com/numanaral/chin-scraper#pages--modules)
 - [Why create this?](https://github.com/numanaral/chin-scraper#why-create-this)
-#### Landing Page
-![landing-page](assets/chin-scraper/landing-page.png)
-#### Learn Page
-![learn-page](assets/chin-scraper/learn-page.png)
+#### Landing / Learn Mode
+![learn-mode](assets/chin-scraper/landing-page.png)
+#### Learn Mode
+![learn-mode](assets/chin-scraper/gifs/learn-mode.gif)
+#### Practice Mode
+![practice-mode](assets/chin-scraper/gifs/practice-mode.gif)
 #### Analytics
 ![analytics](assets/chin-scraper/analytics.png)
 
