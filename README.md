@@ -5,11 +5,11 @@
 - CANtrackv3 also contains AFTER / BEFORE pictures
 
 ## Projects
-- [CANtrack v3](##-cantrack-v3)  
-- [bomba-man](##-bomba-man)  
-- [slide-scott](##-slide-scott)  
-- [chin-scraper](##-chin-scraper)  
-- [Meng Wei Portfolio](##-meng-wei-portfolio)  
+- [CANtrack v3](#cantrack-v3)  
+- [bomba-man](#bomba-man)  
+- [slide-scott](#slide-scott)  
+- [chin-scraper](#chin-scraper)  
+- [Meng Wei Portfolio](#meng-wei-portfolio)  
 
 ## CANtrack v3
 - Code & Live site are private, no link to demo :|
