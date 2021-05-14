@@ -78,22 +78,24 @@
 - Interactive components
 	- Can answer MC questions, have pop quizzes and collect data for analytics
 - ...more
-#### Landing Page
-![landing-page](assets/slide-scott/landing-page.png)
+#### Landing
+![landing](assets/slide-scott/landing-page.png)
 #### First Place Winner
 ![first-place](assets/slide-scott/first-place.jpg)
-#### Profile Page
-![profile-page](assets/slide-scott/profile-page.png)
+#### Profile
+![profile](assets/slide-scott/gifs/profile.gif)
 #### Dashboard Page
-![dashboard-page](assets/slide-scott/dashboard-page.png)
-#### Slide Creator Page
-![slide-creator-page](assets/slide-scott/slide-creator-page.png)
-#### Present Page (real-time)
-![present-live-page](assets/slide-scott/present-live-page.png)
-#### Analytics Page
-![analytics-page](assets/slide-scott/analytics-page.png)
-#### Resources Page
-![resources-page](assets/slide-scott/resources-page.png)
+![dashboard](assets/slide-scott/dashboard-page.png)
+#### Slide Creator
+![slide-creator](assets/slide-scott/gifs/slide-creator.gif)
+#### Synchronous Mode / Present (real-time updates)
+![synchronous-mode](assets/slide-scott/gifs/synchronous-mode.gif)
+#### Asynchronous Mode (real-time updates)
+![asynchronous-mode](assets/slide-scott/gifs/asynchronous-mode.gif)
+#### Analytics
+![analytics](assets/slide-scott/analytics-page.png)
+#### Resources
+![resources](assets/slide-scott/resources-page.png)
 
 &nbsp;
 
