@@ -87,14 +87,16 @@
 		- Chose firebase for easy setup + easy auth, but a node server with socket.io is what I plan to implement in the future. I didn't want to deploy a server just yet and just get it up and running, firebase can be integrated on a static app so it's perfect to get the ground up.
 #### Landing Page
 ![landing page](assets/bomba-man/gifs/landing.gif)
-#### Game Screen
-![local-game](assets/bomba-man/gifs/local-game.gif)
+#### Game Screens
+![local-game](assets/bomba-man/gifs/game.gif)
+![local-game](assets/bomba-man/gifs/game2.gif)
+![local-game](assets/bomba-man/gifs/game3.gif)
 #### Experimental 3D (via perspective)
 ![experimental](assets/bomba-man/gifs/experimental.gif)
 #### Room Creator
-![room-creator](assets/bomba-man/room-creator.png)
+![room-creator](assets/bomba-man/images/room-creator.png)
 #### Waiting Room For Online Multi-Player
-![waiting-room](assets/bomba-man/gifs/waiting-room-and-join-game.gif)
+![waiting-room](assets/bomba-man/gifs/waiting-room.gif)
 #### End Game
 ![game-end](assets/bomba-man/gifs/game-end.gif)
 #### Instructions
