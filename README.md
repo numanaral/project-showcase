@@ -94,7 +94,7 @@
 #### Experimental 3D (via perspective)
 ![experimental](assets/bomba-man/gifs/experimental.gif)
 #### Room Creator
-![room-creator](assets/bomba-man/images/room-creator.png)
+![room-creator](assets/bomba-man/room-creator.png)
 #### Waiting Room For Online Multi-Player
 ![waiting-room](assets/bomba-man/gifs/waiting-room.gif)
 #### End Game
